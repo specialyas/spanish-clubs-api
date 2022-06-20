@@ -31,7 +31,7 @@ const clubs = {
     'stadium': 'Wanda Metropolitano',
     'head coach': 'Diego Simeone'
     },
-    'sevilla ': {
+    'sevilla': {
     'name': 'Sevilla Fútbol Club',
     'nickname': 'Los Nervionenses',
     'age':   132,
